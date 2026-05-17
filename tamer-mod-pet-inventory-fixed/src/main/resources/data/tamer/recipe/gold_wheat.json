@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    " B ",
+    " D "
+  ],
+  "key": {
+    "B": { "item": "minecraft:wheat" },
+    "C": { "item": "minecraft:gold_block" },
+    "D": { "item": "minecraft:enchanted_golden_apple" }
+  },
+  "result": {
+    "id": "tamer:gold_wheat",
+    "count": 1
+  }
+}
